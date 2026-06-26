@@ -1,6 +1,8 @@
-venv/
 .env
+aria.log
+sessions/
 __pycache__/
 *.pyc
-.vscode/
-.idea/
+venv/
+.venv/
+config.json
